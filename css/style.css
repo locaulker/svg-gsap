@@ -3,8 +3,14 @@
 body {
   font-family: 'Montserrat', sans-serif;
   /* background: #555; */
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
   font-weight: 100;
+}
+
+.smile-face {
+  width: 50px;
 }
